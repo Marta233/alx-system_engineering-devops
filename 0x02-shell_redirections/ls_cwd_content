@@ -1,0 +1,15 @@
+total 52
+drwxr-xr-x 2 marta marta 4096 Apr  4 13:32 .
+drwxr-xr-x 6 marta marta 4096 Apr  4 10:23 ..
+-rwxr--r-- 1 marta marta   32 Apr  4 10:28 0-hello_world
+-rwxr--r-- 1 marta marta   28 Apr  4 10:36 1-confused_smiley
+-rwxr--r-- 1 marta marta   28 Apr  4 10:40 2-hellofile
+-rwxr--r-- 1 marta marta   39 Apr  4 10:45 3-twofiles
+-rwxr--r-- 1 marta marta   36 Apr  4 11:09 4-lastlines
+-rwxr--r-- 1 marta marta   35 Apr  4 11:12 5-firstlines
+-rwxr--r-- 1 marta marta   40 Apr  4 11:28 6-third_line
+-rwxr--r-- 1 marta marta   86 Apr  4 11:53 7-file
+-rwxr--r-- 1 marta marta   36 Apr  4 13:31 8-cwd_state
+-rw-r--r-- 1 marta marta   37 Apr  4 10:31 README.md
+-rw-r--r-- 1 marta marta   12 Apr  4 13:28 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 marta marta    0 Apr  4 13:35 ls_cwd_content
