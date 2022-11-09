@@ -1,0 +1,4 @@
+--2022-11-09 16:27:47--  https://dev.mysql.com/get/mysql-apt-config_3.236.64.58_all.dep
+Resolving dev.mysql.com (dev.mysql.com)... 92.122.36.92, 2a02:26f0:9100:13a3::2e31, 2a02:26f0:9100:1387::2e31
+Connecting to dev.mysql.com (dev.mysql.com)|92.122.36.92|:443... connected.
+HTTP request sent, awaiting response... 
